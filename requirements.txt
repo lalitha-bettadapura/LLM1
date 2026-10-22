@@ -1,3 +1,4 @@
 streamlit 
 google-genai
+python-dotenv
 #pip install streamlit google-genai python-dotenv --trusted-host pypi.org --trusted-host files.pythonhosted.org
